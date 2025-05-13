@@ -1,0 +1,5 @@
+agentai==0.1.2
+matplotlib==3.10.1
+python-dotenv==1.1.0
+yfinance==0.2.56
+pandas==2.2.3
